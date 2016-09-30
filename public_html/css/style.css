@@ -38,5 +38,20 @@
 	background-size: contain;
 	*/
 	background-attachment: fixed;
+	background-size:;
 
+}
+
+body {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+
+}
+
+h1, h2 {
+	padding-top: 40%;
 }
