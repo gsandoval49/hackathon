@@ -1,11 +1,13 @@
 /*jumbotron picture with balloons in fiesta*/
+/*landing page - will add picture later. */
 .jumbotron{
-	background: url("../img/balloonFiesta2.jpg") no-repeat center;
+	background: lightblue;
+	/*background: url("../img/balloonFiesta2.jpg") no-repeat;*/
 	min-height: 100vh;
-	/*padding: 200px 0 0 0;*/
+	padding: 200px 0 0 0;
 	margin-bottom: 0;
 	text-align: center;
-	color: lightblue;
+	color: black;
 	background-size: cover;
 	background-attachment: fixed;
 }
