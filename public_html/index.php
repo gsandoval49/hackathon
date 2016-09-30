@@ -90,7 +90,8 @@
 									<p>Courtesy of RSI Hackathon</p>
 									<!--<a class="btn btn-default" href="#connect" role="button">Connect</a>-->
 									<!--<a class="semi-transparent-button" href="#connect">Connect</a>-->
-									<p>^^^ Please Scroll/Rise Up ^^^</p>
+									<div class="fa fa-chevron-up"></div>
+									<p>Please Scroll/Rise Up</p>
 								</div>
 							</div>
 						</div>
