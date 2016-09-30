@@ -78,6 +78,23 @@
 			<main>
 
 
+				<!-- ========================================= -->
+				<!--  Landing page starting from the bottom    -->
+				<!-- ========================================= -->
+				<section class="landing-page" id="welcome">
+					<div class="container-fluid">
+						<div class="row">
+							<div class=col-xs-12">
+								<div class="jumbotron text-center col-md-12">
+									<h1>Welcome to NM Balloon Fiesta in Albuquerque, NM.</h1>
+									<p>Courtesy of RSI Hackathon</p>
+									<!--<a class="btn btn-default" href="#connect" role="button">Connect</a>-->
+									<!--<a class="semi-transparent-button" href="#connect">Connect</a>-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
 
 			</main>
 		</div> <!-- sticky footer end div -->
