@@ -54,7 +54,7 @@
 				  crossorigin="anonymous"></script>
 
 
-<		<!--for recaptcha-->
+		<!--for recaptcha-->
 		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
 
 		<!-- ADD YOUR CUSTOM JS FILES HERE -->
