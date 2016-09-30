@@ -69,3 +69,15 @@ body {
 	background-size:;
 
 }
+
+/*CREAMLAND COW*/
+.creamland{
+	background: url("../img/Creamland_Cow_Balloon.JPG") no-repeat center;
+	min-height: 100vh;
+	padding: 200px 0 0 0;
+	margin-bottom: 0;
+	text-align: center;
+	color: lightgrey;
+	background-size: cover;
+	background-attachment: fixed;
+}
