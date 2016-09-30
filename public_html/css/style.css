@@ -23,7 +23,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 }
-
+/*beagle qna section for text*/
 .beagle-photo-text {
 	padding: 20em 0 0 0;
 	padding-left: 0;
@@ -36,3 +36,4 @@
 	right: 0;
 	border: 0;
 }
+
