@@ -22,5 +22,17 @@
 	color: black;
 	background-size: cover;
 	background-attachment: fixed;
+}
 
+.beagle-photo-text {
+	padding: 20em 0 0 0;
+	padding-left: 0;
+	padding-right: 0;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border: 0;
 }
