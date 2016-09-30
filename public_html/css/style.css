@@ -34,7 +34,9 @@
 	min-height: 100vh;
 	text-align: center;
 	color: black;
+	/*
 	background-size: contain;
+	*/
 	background-attachment: fixed;
 
 }
