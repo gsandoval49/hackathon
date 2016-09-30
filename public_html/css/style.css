@@ -1,7 +1,35 @@
+/*General CSS*/
+
+body {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+
+}
+
+h1, h2 {
+	padding-top: 40%;
+}
+
+body {
+	/*	height: 100px;*/
+	background-color: lightblue;
+	background-image:
+		linear-gradient(
+			to top,
+			lightblue, darkblue
+		);
+}
+
 /*jumbotron picture with balloons in fiesta*/
 /*landing page - will add picture later. */
 .jumbotron{
-	background: lightblue;
+
+	background: #ccccff;
+
 	/*background: url("../img/balloonFiesta2.jpg") no-repeat;*/
 	min-height: 100vh;
 	padding: 200px 0 0 0;
@@ -40,18 +68,4 @@
 	background-attachment: fixed;
 	background-size:;
 
-}
-
-body {
-	font-family: 'Indie Flower', cursive;
-	text-align: center;
-}
-
-p{
-	font-size: 20px;
-
-}
-
-h1, h2 {
-	padding-top: 40%;
 }
