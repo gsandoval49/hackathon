@@ -54,8 +54,8 @@
 				  crossorigin="anonymous"></script>
 
 
-<!--		<!--for recaptcha-->
-		<script src='https://www.google.com/recaptcha/api.js'></script>-->
+<		<!--for recaptcha-->
+		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
 
 		<!-- ADD YOUR CUSTOM JS FILES HERE -->
 		<script src="js/custom.js" type="text/javascript"></script>
@@ -90,6 +90,7 @@
 									<p>Courtesy of RSI Hackathon</p>
 									<!--<a class="btn btn-default" href="#connect" role="button">Connect</a>-->
 									<!--<a class="semi-transparent-button" href="#connect">Connect</a>-->
+									<p>^^^ Please Scroll/Rise Up ^^^</p>
 								</div>
 							</div>
 						</div>
