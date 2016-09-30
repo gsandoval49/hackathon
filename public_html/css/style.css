@@ -11,3 +11,16 @@
 	background-size: cover;
 	background-attachment: fixed;
 }
+
+/*picture of the beagle*/
+.beagle-photo{
+	background: url("../img/Beagle_Maximus_Balloon.jpg") no-repeat;
+	padding-left: 0;
+	padding-right: 0;
+	min-height: 600px;
+	text-align: center;
+	color: black;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
